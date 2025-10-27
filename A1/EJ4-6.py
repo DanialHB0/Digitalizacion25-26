@@ -12,7 +12,7 @@ print("L'area del rectangle és:", area)
 
 #EJ6
 nombre = 6
-print(f"Taula de multiplicar del {nombre}:")
+print(":")
 for i in range(1, 11):
     resultat = nombre * i
     print(f"{nombre} x {i} = {resultat}")
